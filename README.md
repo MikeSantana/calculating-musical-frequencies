@@ -1,7 +1,7 @@
 # calculating-musical-frequencies
 ## Calculando frequência de notas musicais pt-br
 
- - Este foi uns dos exercícios proposto em uma candidatura de estágio para a empresa ci&it em 09/2021.
+ - Este foi uns dos exercícios proposto em uma candidatura de estágio para a empresa ci&t em 09/2021.
  - Faço questão de deixar o código exatamente como foi entregue, para que futuramente eu venha visita-lo e comparar o nível de evolução :).
  - 
 ##
